@@ -7,7 +7,7 @@ Pengalaman Belajar
  
 ==    
 
-**23 FEBUARY 2024**
+**23 FEBUARY 2024**  
 Belajar kelas tentang mengenai  
 **1** Mempelajari Pemprograman Logic 101 **100%**  
 **2** Belajar Dasar menjadi pengembang Software **100%**  
@@ -15,5 +15,5 @@ Belajar kelas tentang mengenai
 
 ==    
 
-**25 Febuary 2024**
+**25 Febuary 2024**  
 ***1.*** Mempelajari dasar Pemprograman 20%
